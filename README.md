@@ -1,4 +1,4 @@
-# rnn-cantonese
+# cantonese-text2CHAT
 A deep learning model that transcribes audio in Cantonese into Chinese characters.
 
 [PyCantonese](http://pycantonese.org)  
