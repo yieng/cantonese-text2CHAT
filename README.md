@@ -5,7 +5,7 @@ Converts Cantonese Chinese characters into Jyutping romanization. Works for most
 [Python學習07 利用Python程式轉換語音成文字(Transform Voice to Text by Python SpeechRecognition)](https://www.youtube.com/watch?v=3LLksqP2aXE)  
 [Ekho](https://www.eguidedog.net/ekho.php)
 
-Instructions (for Windows 10 machines):  
+## Instructions (for Windows 10 machines):  
 
 1) Install [Python 3.7 or above](https://www.python.org/downloads/).  
 2) Install the [PyCantonese](http://pycantonese.org) and NLTK (Natural Language Toolkit) dependencies: Start > Run > input ```cmd``` > input the following in the console:  
