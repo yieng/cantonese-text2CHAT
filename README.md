@@ -12,7 +12,7 @@ Instructions (for Windows 10 machines):
 ```
 py -3 -m pip install -U pycantonese nltk
 ```
-3) Download the "Raw" version of the ChineseCharacter2Jyutping.py file.  
+3) Download the "Raw" version of the ```ChineseCharacter2Jyutping.py``` file.  
 4) Using Notepad, save all the Chinese text you need to analyze in a file ```sample.txt``` (or any other name, always with ".txt" as suffix) with UTF-8 encoding -- this encoding option is available in the "Save" dialog box in Notepad.  
 5) Run the following command:  
 ```
