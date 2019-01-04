@@ -19,4 +19,4 @@ py -3 -m pip install -U pycantonese nltk
 py -3 ChineseCharacter2Jyutping.py
 ```
 5) Input ```sample``` (or your designated file name) when prompted by the program.  
-6) The program will generate the Jyutping corresponding to the words in the file.
+6) The program will generate the Jyutping corresponding to the words in the file and save it to anotehr TXT file. If the input file name is ```sample```, then the output file name is ```sample_output```.
