@@ -10,10 +10,10 @@ Instructions (for Windows 10 machines):
 1) Install [Python 3.7 or above](https://www.python.org/downloads/).  
 2) Install the [PyCantonese](http://pycantonese.org) dependency.  
 3) Download the "Raw" version of the ChineseCharacter2Jyutping.py file.  
-4) Using Notepad, save all the Chinese text you need to analyze in a file "sample.txt" (or any other name, always with ".txt" as suffix) with UTF-8 encoding -- this encoding option is available in the "Save" dialog box in Notepad.  
+4) Using Notepad, save all the Chinese text you need to analyze in a file ```sample.txt``` (or any other name, always with ".txt" as suffix) with UTF-8 encoding -- this encoding option is available in the "Save" dialog box in Notepad.  
 5) Run the following command:  
 ```
 py -3 ChineseCharacter2Jyutping.py
 ```
-5) Input ```sample``` when prompted by the program.  
+5) Input ```sample``` (or your designated file name) when prompted by the program.  
 6) The program will generate the Jyutping corresponding to the words in the file.
